@@ -1,2 +1,3 @@
-# fortran-quadratic-solver
-Quadratic solver in Fortran 95
+# Quadratic Solver
+
+A quadratic solver in Fortran 95, just for fun.
